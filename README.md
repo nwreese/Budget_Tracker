@@ -1,5 +1,5 @@
 # Budget_Tracker
-An online/offline budget tracker application that allows the user to add deposits and expenses
+An online/offline budget tracker application that allows the user to add deposits and expenses. Uses indexedDb, service worker, webpack, mongo, mongoose, morgan, express, and compression.
 
 ## Installation:
 run npm i
