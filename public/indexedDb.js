@@ -46,7 +46,7 @@ function checkForIndexedDb() {
         }
         else if (method === "post") {
             store.add(object);
-        } else if (method === "update"){
+        } else if (method === "upload"){
     const getAll = store.getAll();
      getAll.onsuccess = function() {
      if (getAll.result.length > 0) {
