@@ -4,10 +4,11 @@ An online/offline budget tracker application that allows the user to add deposit
 ## Installation:
 run npm i
 
-## Deployed:
-live link deployed by Heroku at 
-
 ## Screenshots:
+<img src = "budget.png">
+
+## Deployed:
+live link deployed by Heroku at https://guarded-ravine-68129.herokuapp.com/ 
 
 ## Questions:
 email: nwreese@kent.edu 
